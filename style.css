@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&family=Press+Start+2P&display=swap');
+
+.article-but {
+    text-decoration: none;
+    background-color: gray;
+    border-radius: 5px;
+    text-align: center ;
+}
+
+nav {
+    display: flex; 
+    justify-content: space-around;
+    text-decoration: none;
+    background-color: gray;
+  }
+
+  .nav-link {
+    text-decoration: none;
+    background-color: gray;
+    border-radius: 3px;
+}
+
+  .goose{
+   width: 200px;
+   height: 180px;
+   justify-content: space-around;
+  }
+
+  .eva{
+    text-align: center;
+  }
+
+  .mak{
+    justify-content: space-around;
+    border-radius: 5px;
+  }
+
+  body{
+    background-image:linear-gradient(lightblue,green,gray) ;
+    margin: 0;
+    
+  }
+
+  a{
+    text-align: center;
+  }
+
+  .button {
+    background-color: gray;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  .galery{
+    width:fit-content;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: lightgreen;
+  }
+
+  .door{
+    justify-content: space-around;
+  }
+
+  .hores{
+    background-color: lightgreen;
+    border-radius: 5px;
+  } 
+
+  h2{
+    text-align: center;
+  }
+  
+  nav a{
+    text-decoration: none;
+    font-size: 20px ;
+  }
+
+  a:hover{
+     border-bottom: 2px solid gold
+     }

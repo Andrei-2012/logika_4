@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&family=Press+Start+2P&display=swap');
+
+.goose{
+    width: 200px;
+    height: 180px;
+    justify-content: space-around;
+   }
+
+ 
+.galery{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    flex-wrap: nowrap ;
+    border-radius: 5px;
+    
+    
+}
+
+nav a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: darkblue;
+    font-size: 20px;
+}
+
+.galery-item{
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+}
+
+body{
+    background-image:linear-gradient(lightblue,green,gray) ;
+    margin: 0;
+    font-family: "Gupter", serif;
+  font-weight: 400;
+  font-style: normal;
+  }
+
+  a{
+    text-align: center;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  nav {
+    display: flex; 
+    justify-content: space-around;
+    text-decoration: none;
+    background-color: gray;
+  }
+
+  .doll{
+    text-decoration: none;
+    color: darkblue;
+    background-color: gold;
+    border-radius: 5px;
+
+  }
+
+  h1{
+    text-decoration: none;
+    text-align: center;
+    font-size: 50px;
+  }
+
+  .tir{
+    text-align: center;
+
+  }
+
+  h4{
+    text-align: center;
+    font-size: 20px;
+  }
+
+  a:hover{
+    border-bottom: 2px solid gold
+    }
+
+  
